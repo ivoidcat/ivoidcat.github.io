@@ -1,7 +1,7 @@
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
-  <script async="" src="./void.cat_files/f.txt"></script>
+  <script async="" src="https://voidcat.com/void.cat_files/f.txt"></script>
   <script>
     (adsbygoogle = window.adsbygoogle || []).push({
       google_ad_client: "ca-pub-3289062345896209",
@@ -29,6 +29,9 @@
     span.path { color: blue; }
     div.msg span { float: left; }
     span.hide { opacity: 0; }
+    h1{
+      display: none;
+    }
   </style>
 </head>
 <body style="">
