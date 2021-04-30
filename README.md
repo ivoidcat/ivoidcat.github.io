@@ -1,3 +1,4 @@
+layout:main
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <script async="" src="https://voidcat.com/void.cat_files/f.txt"></script>
