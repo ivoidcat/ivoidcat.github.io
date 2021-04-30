@@ -33,6 +33,7 @@
       display: none;
     }
   </style>
+  <title>voidcat</title>>
 </head>
 <body style="">
   <div class="msg">
